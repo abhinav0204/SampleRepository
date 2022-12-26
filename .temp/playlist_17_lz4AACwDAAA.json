@@ -1,0 +1,9 @@
+{
+    "downloader": {
+        "playlist": "true",
+        "read_cookie": "true",
+        "url": "https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi"
+    },
+    "log_path": "C:/Users/abhin/AppData/Local/iTubeGo/Log"
+}
+
