@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this line is from local!!
+=======
+this line is from remote !!
+>>>>>>> 053c03a62a0929c0c2b6e066a5aa283e22dc29e6
